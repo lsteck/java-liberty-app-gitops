@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: java-liberty-app-test
+description: Chart to configure ArgoCD with the java-liberty-app-test project and its applications
